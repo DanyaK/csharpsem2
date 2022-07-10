@@ -10,7 +10,6 @@ Console.WriteLine("Task 13!");
 Console.Write("Your number = ");
 int input =  Convert.ToInt32(Console.ReadLine());
 int number = input;
-int count = 0;
 
 if (number < 100) 
 {
